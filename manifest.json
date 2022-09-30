@@ -36,10 +36,10 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm",
+ "theme_color": "#FFFFFF",
  "description": "Feito por Inovar360°",
  "display": "fullscreen",
- "theme_color": "#FFFFFF",
+ "background_color": "#FFFFFF",
  "name": "FiChipsGV",
- "background_color": "#FFFFFF"
+ "start_url": "index.htm"
 }
